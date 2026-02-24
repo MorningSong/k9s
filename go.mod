@@ -38,7 +38,7 @@ require (
 	k8s.io/cli-runtime v0.35.1
 	k8s.io/client-go v0.35.1
 	k8s.io/klog/v2 v2.130.1
-	k8s.io/kubectl v0.35.0
+	k8s.io/kubectl v0.35.1
 	k8s.io/metrics v0.35.1
 	sigs.k8s.io/yaml v1.6.0
 )
@@ -380,7 +380,7 @@ require (
 	gotest.tools/v3 v3.4.0 // indirect
 	k8s.io/apiserver v0.35.1 // indirect
 	k8s.io/component-base v0.35.1 // indirect
-	k8s.io/component-helpers v0.35.0 // indirect
+	k8s.io/component-helpers v0.35.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912 // indirect
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4 // indirect
 	modernc.org/libc v1.67.6 // indirect
